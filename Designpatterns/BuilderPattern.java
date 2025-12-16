@@ -1,3 +1,5 @@
+import others.User;
+
 class User
 {  public String name,add,email;
    public int age;
